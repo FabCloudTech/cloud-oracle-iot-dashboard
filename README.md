@@ -1,4 +1,4 @@
-# The Cloud Oracle — AI-Enhanced IoT Security Monitoring Dashboard
+# The Cloud Oracle - AI-Enhanced IoT Security Monitoring Dashboard
 
 **Project Type:** IoT Security | AI Anomaly Detection | Real-Time Monitoring  
 **Environment:** Python, WebSocket, MQTT, scikit-learn  
@@ -92,4 +92,4 @@ Cloud Oracle Dashboard (dashboard-oracle.html)
 
 ## Recognition
 
-Earned **Top Performer** designation upon completion of the Hydroficient IoT Cyber Defense Externship — awarded to the top 10% of all participants across the program.
+Earned **Top Performer** designation upon completion of the Hydroficient IoT Cyber Defense Externship. Awarded to the top 10% of all participants across the program.
